@@ -4,8 +4,7 @@
 
 - Hi, I'm **Luiz Fernando de Souza C. Cardoso**!
 
-- I'm a Computer Science Student at **UFES - Universidade Federal do Espirito Santo** and a passionate about Computer Science, AI and Data Science.
-
+- I'm a Computer Science Student at **UFES - Universidade Federal do Espirito Santo** and a passionate about AI, Data Science, and Tech in general.
 
 ---
 
